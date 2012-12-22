@@ -1047,7 +1047,7 @@ vn:
   shipping_methods: "Phương thức vận chuyển"
   shipping_methods_description: "Quản lý phương thức vận chuyển"
   shipping_total: "Tổng tiền vận chuyển"
-  shop_by_taxonomy: "Mua theo %{taxonomy}"
+  shop_by_taxonomy: "Mua hàng theo %{taxonomy}"
   shopping_cart: "Sọt mua sắm"
   short_description: "Short description"
   show: Xem
