@@ -422,7 +422,7 @@ vn:
   email: Email
   email_address: "Địa chỉ Email"
   email_server_settings_description: "Cài cấu hình máy chủ email"
-  empty: "Empty"
+  empty: "Rỗng"
   empty_cart: "Làm rỗng sọt"
   enable_login_via_login_password: "Sử dụng email và mật khẩu chuẩn"
   enable_login_via_openid: "Dùng OpenID"
