@@ -663,20 +663,20 @@ vn:
   order_email_resent: "Đơn hàng đã được gửi email lại"
   order_mailer:
     cancel_email:
-      dear_customer: "Dear Customer,"
-      instructions: "Your order has been CANCELED.  Please retain this cancellation information for your records."
-      order_summary_canceled: "Order Summary [CANCELED]"
-      subject: "Cancellation of Order"
-      subtotal: "Subtotal:"
-      total: "Order Total:"
+      dear_customer: "Kính chào quý khách,"
+      instructions: "Đơn đặt hàng của quý khách bị hủy. Vui lòng kiểm tra lại đơn hàng của bạn."
+      order_summary_canceled: "Tổng kết đơn hàng [HỦY]"
+      subject: "Hủy đơn đặt hàng"
+      subtotal: "Số tiền:"
+      total: "Tổng số tiền:"
     confirm_email:
-      dear_customer: "Dear Customer,"
-      instructions: "Please review and retain the following order information for your records."
-      order_summary: "Order Summary"
-      subject: "Order Confirmation"
-      subtotal: "Subtotal:"
-      thanks: "Thank you for your business."
-      total: "Order Total:"
+      dear_customer: "Kính chào quý khách,"
+      instructions: "Vui lòng kiểm tra đơn đặt hàng của bạn."
+      order_summary: "Tổng kết đặt hàng"
+      subject: "Xác nhận đặt hàng"
+      subtotal: "Số tiền:"
+      thanks: "Cảm ơn bạn đã sử dụng dịch vụ vietcare24h.com."
+      total: "Tổng số tiền:"
   order_not_in_system: Số đơn hàng không có trùng với hệ thống
   order_number: Đơn hàng
   order_operation_authorize: Ủy quyền
